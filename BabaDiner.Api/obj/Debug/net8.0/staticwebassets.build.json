@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qqS83ql02dTNns33JrIvGwIU+OXPyusBeQ+FVLpCAss=",
+  "Source": "BabaDiner.Api",
+  "BasePath": "_content/BabaDiner.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
