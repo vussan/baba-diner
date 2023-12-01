@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BabaDiner.Application/1.0.0": {
+        "runtime": {
+          "BabaDiner.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BabaDiner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

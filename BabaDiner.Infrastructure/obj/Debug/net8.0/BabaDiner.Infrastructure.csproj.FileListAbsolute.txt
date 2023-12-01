@@ -1,0 +1,11 @@
+D:\Codes\BaBa Diner\BabaDiner.Infrastructure\bin\Debug\net8.0\BabaDiner.Infrastructure.deps.json
+D:\Codes\BaBa Diner\BabaDiner.Infrastructure\bin\Debug\net8.0\BabaDiner.Infrastructure.dll
+D:\Codes\BaBa Diner\BabaDiner.Infrastructure\bin\Debug\net8.0\BabaDiner.Infrastructure.pdb
+D:\Codes\BaBa Diner\BabaDiner.Infrastructure\obj\Debug\net8.0\BabaDiner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\BaBa Diner\BabaDiner.Infrastructure\obj\Debug\net8.0\BabaDiner.Infrastructure.AssemblyInfoInputs.cache
+D:\Codes\BaBa Diner\BabaDiner.Infrastructure\obj\Debug\net8.0\BabaDiner.Infrastructure.AssemblyInfo.cs
+D:\Codes\BaBa Diner\BabaDiner.Infrastructure\obj\Debug\net8.0\BabaDiner.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Codes\BaBa Diner\BabaDiner.Infrastructure\obj\Debug\net8.0\BabaDiner.Infrastructure.dll
+D:\Codes\BaBa Diner\BabaDiner.Infrastructure\obj\Debug\net8.0\refint\BabaDiner.Infrastructure.dll
+D:\Codes\BaBa Diner\BabaDiner.Infrastructure\obj\Debug\net8.0\BabaDiner.Infrastructure.pdb
+D:\Codes\BaBa Diner\BabaDiner.Infrastructure\obj\Debug\net8.0\ref\BabaDiner.Infrastructure.dll

@@ -1,0 +1,11 @@
+D:\Codes\BaBa Diner\BabaDiner.Domain\bin\Debug\net8.0\BabaDiner.Domain.deps.json
+D:\Codes\BaBa Diner\BabaDiner.Domain\bin\Debug\net8.0\BabaDiner.Domain.dll
+D:\Codes\BaBa Diner\BabaDiner.Domain\bin\Debug\net8.0\BabaDiner.Domain.pdb
+D:\Codes\BaBa Diner\BabaDiner.Domain\obj\Debug\net8.0\BabaDiner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\BaBa Diner\BabaDiner.Domain\obj\Debug\net8.0\BabaDiner.Domain.AssemblyInfoInputs.cache
+D:\Codes\BaBa Diner\BabaDiner.Domain\obj\Debug\net8.0\BabaDiner.Domain.AssemblyInfo.cs
+D:\Codes\BaBa Diner\BabaDiner.Domain\obj\Debug\net8.0\BabaDiner.Domain.csproj.CoreCompileInputs.cache
+D:\Codes\BaBa Diner\BabaDiner.Domain\obj\Debug\net8.0\BabaDiner.Domain.dll
+D:\Codes\BaBa Diner\BabaDiner.Domain\obj\Debug\net8.0\refint\BabaDiner.Domain.dll
+D:\Codes\BaBa Diner\BabaDiner.Domain\obj\Debug\net8.0\BabaDiner.Domain.pdb
+D:\Codes\BaBa Diner\BabaDiner.Domain\obj\Debug\net8.0\ref\BabaDiner.Domain.dll
